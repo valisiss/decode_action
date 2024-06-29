@@ -6,7 +6,7 @@
 
 奈雪点单 微信小程序
 捉tm-api.pin-dao.cn的包，把header里面的Authorization(删掉Bearer)后填到变量naixueCookie
-多账号换行隔开
+
 
 const $ = new Env("奈雪签到")
 cron: 20 8,18 * * *
