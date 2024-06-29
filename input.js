@@ -2,8 +2,7 @@
 奈雪签到 微信小程序
 
 感谢浦浦大佬提供的加密算法
-现在仅有签到功能，好像也没啥其他活动能做的
-定时随意，每天一到两次就行
+
 
 奈雪点单 微信小程序
 捉tm-api.pin-dao.cn的包，把header里面的Authorization(删掉Bearer)后填到变量naixueCookie
